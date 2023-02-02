@@ -1,0 +1,15 @@
+.app {
+    height: 100vh;
+}
+
+#preview {
+    background-color: #fff;
+    color: #000;
+    min-height: 26vh;
+    border-radius: 5px;
+    padding: .5rem;
+}
+
+img {
+    width: 50px;
+}
